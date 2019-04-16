@@ -3,6 +3,6 @@ package gone;
 //（二）编写main方法，输出helloWord。（10分）
 public class ghello {
     public void main() {
-    	System.out.println("helloWord");
+    	System.out.println("helloWord99999");
     }
 }
